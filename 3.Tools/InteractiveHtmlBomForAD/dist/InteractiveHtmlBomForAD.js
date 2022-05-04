@@ -1,4 +1,4 @@
-var CURRENT_PATH = "E:\\00ADlib\\ADLib\\InteractiveHtmlBomForAD\\";
+var CURRENT_PATH = "E:\\00ADlib\\ADLib\\3.Tools\\InteractiveHtmlBomForAD\\";
 
 //  json2.js
 //  2017-06-12
